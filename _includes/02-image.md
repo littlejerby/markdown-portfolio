@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Stamp attack!](https://media1.tenor.com/images/998984ebce8efaa0feab6b5331355101/tenor.gif?itemid=18249997)
