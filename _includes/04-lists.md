@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. Brush teeth
+2. Wash face
+3. Apply skincare
+    - Lipbalm
+    - Toner
+    - Serum
+    - Moisturizer
+    - Eye cream
